@@ -2,7 +2,7 @@
 
 This development environment is inspired by [Laragon](https://laragon.org/), which can be freely customized as desired.
 
-Last updated: `February 17, 2024`
+Last updated: `June 12, 2024`
 
 ## What's included?
 
@@ -43,7 +43,7 @@ Git is a version control system that helps you manage different versions of code
 
 #### **MySQL**
 
-MySQL is a database management system that is useful for managing databases on the website. The mysqQL database management system has many features.
+MySQL is a database management system that is useful for managing databases on the website. The MySQL database management system has many features.
 
 #### **Node.js**
 
