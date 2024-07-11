@@ -2,7 +2,7 @@
 
 This development environment is inspired by [Laragon](https://laragon.org/), which can be freely customized as desired.
 
-Last updated: `June 12, 2024`
+Last updated: `July 12, 2024`
 
 ## What's included?
 
@@ -61,15 +61,27 @@ phpMyAdmin is a web-based application used to manage MySQL and MariaDB databases
 
 Is the favorite IDE until 2024. Extensions that I usually use:
 
+- **Alpine.js IntelliSense** _adrianwilczynski.alpine-js-intellisense_
+- **Alpine.js Syntax Highlight** _sperovita.alpinejs-syntax-highlight_
+- **Better Comments** _aaron-bond.better-comments_
+- **ES7+ React/Redux/React-Native snippets** _dsznajder.es7-react-js-snippets_
 - **ESLint** _dbaeumer.vscode-eslint_
+- **Git Graph** _mhutchie.git-graph_
 - **Laravel Artisan** _ryannaddy.laravel-artisan_
 - **Laravel Blade Formatter** _shufo.vscode-blade-formatter_
 - **Laravel Blade Snippets** _onecentlin.laravel-blade_
+- **Laravel Blade Spacer** _austenc.laravel-blade-spacer_
 - **Laravel Extra Intellisense** _amiralizadeh9480.laravel-extra-intellisense_
+- **Laravel goto view** _codingyu.laravel-goto-view_
 - **Laravel Snippets** _onecentlin.laravel5-snippets_
+- **Live Preview** _ms-vscode.live-server_
 - **Material Icon Theme** _PKief.material-icon-theme_
 - **PHP Intelephense** _bmewburn.vscode-intelephense-client_
+- **PHP Namespace Resolver** _MehediDracula.php-namespace-resolver_
 - **Prettier - Code Formatter** _esbenp.prettier-vscode_
+- **Prisma** _Prisma.prisma_
+- **React** _zhang-renyang.vscode-react_
+- **Tailwind CSS IntelliSense** _bradlc.vscode-tailwindcss_
 - **Trailing Spaces** _shardulm94.trailing-spaces_
 
 #### **Wget**
