@@ -2,7 +2,7 @@
 
 This development environment is inspired by [Laragon](https://laragon.org/), which can be freely customized as desired.
 
-Last updated: `July 12, 2024`
+Last updated: `July 21, 2024`
 
 ## What's included?
 
